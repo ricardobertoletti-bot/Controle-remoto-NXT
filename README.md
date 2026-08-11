@@ -1,7 +1,8 @@
 App Controle Remoto
 
 🎯 Objetivo
-A resolução de desafios de conectividade entre dispositivos móveis e hardware é essencial para o desenvolvimento de ecossistemas interativos eficientes e escaláveis. Este projeto consiste em uma interface móvel para o controle remoto de um carrinho via Bluetooth, eliminando fios através de comandos intuitivos e ágeis. A solução resolve a necessidade de uma navegação sem fio estável, integrando o software ao hardware de forma eficiente para garantir total mobilidade. Esta estrutura de comando direta e simplificada define a base técnica para a execução de todas as funcionalidades práticas presentes no aplicativo. Essa clareza de propósito orientou cada decisão técnica e funcionalidade implementada, garantindo que a execução técnica atenda perfeitamente à proposta prática de controle sem fio.
+
+Este projeto consiste em uma interface móvel para o controle remoto de um carrinho via Bluetooth, eliminando fios através de comandos intuitivos e ágeis. A solução resolve a necessidade de uma navegação sem fio estável, integrando o software ao hardware de forma eficiente para garantir total mobilidade.
 
 ✨ Funcionalidades
 
